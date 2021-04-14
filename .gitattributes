@@ -1,0 +1,7 @@
+adam-best.mdl filter=lfs diff=lfs merge=lfs -text
+best.mdl filter=lfs diff=lfs merge=lfs -text
+mse-best.mdl filter=lfs diff=lfs merge=lfs -text
+mse-best-without-normal.mdl filter=lfs diff=lfs merge=lfs -text
+SGD-moment-best-1.mdl filter=lfs diff=lfs merge=lfs -text
+SGD-moment-best.mdl filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
